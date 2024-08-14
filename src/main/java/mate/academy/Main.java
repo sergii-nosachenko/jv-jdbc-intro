@@ -1,3 +1,5 @@
+// Ignore me! Not a solution
+
 package mate.academy;
 
 public class Main {
